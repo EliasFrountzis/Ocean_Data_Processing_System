@@ -1,2 +1,2 @@
 # Ocean_Data_Processing_System
-Various sorting algorithms including 
+possessing system using various sorting algorithms including inseruon short, quick sort, heap sort
